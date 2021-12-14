@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: English_Subscriber
+Bundle-SymbolicName: English_Subscriber
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: english_subscriber.Activator
+Automatic-Module-Name: English_Subscriber
+Import-Package: org.osgi.framework;version="1.3.0",
+ publisher_englishmovie,
+ publisher_sinhalamovie
